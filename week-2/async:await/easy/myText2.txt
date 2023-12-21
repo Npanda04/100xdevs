@@ -1,0 +1,1 @@
+This is a added text we arrrrre going to write using fs.write

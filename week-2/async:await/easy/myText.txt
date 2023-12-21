@@ -1,0 +1,1 @@
+this is to check weather my reading from file fucntion is working or not.
